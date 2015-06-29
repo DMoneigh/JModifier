@@ -6,7 +6,9 @@ Live Java LDC Instruction Editor
 Flaws
 =====
 
-Currently having issues with local class references... Should be fixed by v0.2
+<li>
+test
+</li>
 
 Download Jar
 ============
