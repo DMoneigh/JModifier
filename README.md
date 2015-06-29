@@ -12,14 +12,14 @@ Download Jar
 ============
 Java 8 (JRE) - http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 
-Link - 
+Link - https://www.mediafire.com/?p07q7su89qtts67
 
 Requirements For Compilation
 ============
 
 Java 8 (JDK) - http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
-ObjectWeb ASM API - 
+ObjectWeb ASM API - http://asm.ow2.org/
 
 Donations
 =========
