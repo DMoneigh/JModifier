@@ -6,7 +6,7 @@ Live Java LDC Instruction Editor
 Flaws
 =====
 
-<li>Local Class References</li>
+<li>Cannot load local class references</li>
 <li>Needs some serious refactoring</li>
 
 Download Jar
