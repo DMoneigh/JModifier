@@ -6,10 +6,8 @@ Live Java LDC Instruction Editor
 Flaws
 =====
 
-<li>
-<ul>test</ul>
-<ul>ok</ul>
-</li>
+<li>Local Class References</li>
+<li>Needs some serious refactoring</li>
 
 Download Jar
 ============
