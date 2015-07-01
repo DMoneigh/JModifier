@@ -1,7 +1,7 @@
 JModifier
 ========
 
-Live Java Variable Editor
+Java Variable Editor
 
 Flaws
 =====
