@@ -7,7 +7,7 @@ import javax.swing.UnsupportedLookAndFeelException;
 import com.jmodifier.ui.ModifierFrame;
 
 /**
- * A live Java LDC variable editor.
+ * A live Java variable editor.
  * 
  * @author Desmond Jackson
  */
